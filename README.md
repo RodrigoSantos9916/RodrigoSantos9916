@@ -44,11 +44,8 @@ Tenho experiência anterior com atendimento e vendas, o que contribuiu para o de
 ## 📊 GitHub Stats
 
 <div align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos9916&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos9916&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos9916&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos9916&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" />
 </div>
 
 ---

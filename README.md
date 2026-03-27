@@ -1,10 +1,9 @@
-# 👩🏻‍💻 Rodrigo Cavalcante
+# 👨🏻‍💻 Rodrigo Cavalcante
 
 <div align="left">
 
-💻 Desenvolvedor Front-End em transição para Full-Stack Java  
-🚀 Estudante de Engenharia de Software  
-☁️ Em preparação para certificação AWS  
+💻 Desenvolvedor Front-End em transição para Full-Stack com Java  
+🚀 Estudante de Engenharia de Software 
 
 </div>
 
@@ -12,12 +11,13 @@
 
 ## 🚀 Sobre mim
 
-Me chamo Rodrigo Cavalcante, tenho 25 anos e sou natural de Fortaleza - CE.  
-Atualmente sou estudante de Engenharia de Software e estou em transição de carreira para a área de Tecnologia, com foco em desenvolvimento de software, Java Full-Stack e certificação AWS.
+Olá! Me chamo **Rodrigo Cavalcante**, tenho 25 anos e sou de **Fortaleza - CE**.
 
-Tenho experiência anterior com atendimento e vendas, o que contribuiu para o desenvolvimento de habilidades como comunicação, resolução de problemas, proatividade e trabalho em equipe.
+Atualmente, estou em transição de carreira para a área de Tecnologia, com foco em **desenvolvimento de software** e **Java Full-Stack**, enquanto curso **Engenharia de Software**.
 
-🎯 Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções eficientes e inovadoras.
+Tenho experiência anterior com **atendimento e vendas**, o que fortaleceu habilidades importantes como **comunicação**, **resolução de problemas**, **proatividade** e **trabalho em equipe**.
+
+🎯 Meu objetivo é conquistar minha primeira oportunidade na área de TI, aplicando meus conhecimentos, evoluindo de forma contínua e contribuindo com soluções eficientes e inovadoras.
 
 ---
 
@@ -41,26 +41,7 @@ Tenho experiência anterior com atendimento e vendas, o que contribuiu para o de
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos9916&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos9916&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" />
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="left">
-
-<img src="https://streak-stats.demolab.com?user=RodrigoSantos9916&theme=tokyonight&locale=pt-br" />
-
-</div>
-
----
-
-## 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <div align="left">
 
@@ -70,9 +51,8 @@ Tenho experiência anterior com atendimento e vendas, o que contribuiu para o de
 <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 </div>
 
@@ -80,28 +60,29 @@ Tenho experiência anterior com atendimento e vendas, o que contribuiu para o de
 
 ## 📌 Projetos em destaque
 
-🔹 Em breve adicionando projetos práticos com foco em:
+Atualmente, estou atualizando meu GitHub para refletir melhor minha evolução profissional, organizando projetos que demonstram minhas habilidades em desenvolvimento front-end e minha transição para o ecossistema Java.
 
-- Aplicações React modernas  
-- APIs com Java (Spring Boot)  
-- Integrações com serviços (ex: mapas, pagamentos, tempo real)  
+### Áreas de foco dos projetos
+- Aplicações modernas com **React**
+- Interfaces responsivas e componentizadas
+- Integração com APIs
+- Evolução para projetos com **Java + Spring Boot**
 
 ---
 
 ## 📈 Objetivos atuais
 
-- 🚀 Conseguir minha primeira vaga como desenvolvedor  
-- ☕ Aprender Java + Spring Boot  
-- ☁️ Tirar certificação AWS  
-- 🧠 Evoluir como Full-Stack  
+- 🚀 Conquistar minha primeira oportunidade como desenvolvedor
+- ☕ Aprofundar conhecimentos em **Java** e **Spring Boot**
+- 🧠 Evoluir como desenvolvedor **Full-Stack**
 
 ---
 
-## ⚡ Curiosidades
+## ⚡ Diferenciais
 
-- 💬 Comunicação é um dos meus pontos fortes  
-- 🔥 Estou em evolução constante na área de tecnologia  
-- 🎯 Focado em crescer rápido e com consistência  
+- 💬 Boa comunicação e facilidade para trabalhar em equipe
+- 🔥 Comprometido com evolução constante na área de tecnologia
+- 🎯 Foco em crescimento profissional com consistência e disciplina
 
 ---
 
